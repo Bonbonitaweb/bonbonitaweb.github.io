@@ -414,7 +414,7 @@ footer{
   position: relative;
   top: 30%;
   left:50%;
-  transform: translate(5% ,-25%);
+  transform: translate(-5% ,-25%);
 }
 .header p{
   font-size: 20px;
